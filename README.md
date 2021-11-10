@@ -14,7 +14,7 @@ Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 tochitopor
 
 ## Acknowledgments
-...
+test
 
 ## Contributing
 Please, follow [Contributing](CONTRIBUTING.md) page.
