@@ -11,6 +11,7 @@ Repository creates for fast running development process with configuration, whic
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 
 ## Authors
+tochitopor
 
 ## Acknowledgments
 ...
